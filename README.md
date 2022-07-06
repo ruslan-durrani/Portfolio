@@ -1,5 +1,5 @@
 # Portfolio
-`Full Stack MERN Develoepr`
+`Full Stack MERN Developer`
 `Web Designer`
 `Flutter Application Developer`
 `Designer`
