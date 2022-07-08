@@ -5,11 +5,11 @@ body{
 @font-face {
   font-family: my_title_font;
 
-  src: url("/Users/russi7kd/github/MERN/Stacks/CSS-Levels/assets/GrandHotel-Regular.ttf");
+  src: url("assets/GrandHotel-Regular.ttf");
 }
 @font-face {
   font-family: my_title_tagline;
-  src: url("/Users/russi7kd/github/MERN/Stacks/CSS-Levels/assets/Poppins-Regular.ttf");
+  src: url("assets/Poppins-Regular.ttf");
 }
 p{
   font-family: my_title_tagline
@@ -190,5 +190,5 @@ table{
   color: white;
   font-size: 19px;
   background-color: grey;
-  
+
 }
