@@ -1,0 +1,194 @@
+body{
+  margin: 0px;
+  text-align: center;
+}
+@font-face {
+  font-family: my_title_font;
+
+  src: url("assets/GrandHotel-Regular.ttf");
+}
+@font-face {
+  font-family: my_title_tagline;
+  src: url("assets/Poppins-Regular.ttf");
+}
+p{
+  font-family: my_title_tagline
+
+}
+h2{
+  font-family:my_title_tagline;
+}
+h1{
+  position: relative;
+  color: #F9696B;
+}
+
+.Hero_Section{
+  background-color: white ; /** #FED8B1 **/
+
+
+}
+.hero_img{
+  margin-top: 50px;
+}
+.hero_bitmoji{
+  height: 140px;
+  position: relative;
+  top: 150px;
+}
+.ruslan_durrani{
+  font-family: my_title_font;
+  font-size: 45px;
+  font-weight: normal;
+  color: #F9696B;
+  position: relative;
+  top: 140px;
+}
+.ruslan_tagline{
+  font-family: my_title_tagline;
+  font-size: 19px;
+  color: #F9696B;
+  position: relative;
+  top: 110px;
+}
+.navbar_title{
+  font-family: my_title_font;
+  color: #F9696B;
+  font-size: 18px;
+  font-weight: lighter;
+
+  margin: 10px
+  padding: 10px;
+  display: inline-block;
+  position: absolute;
+  top: 16px;
+  left: 30px;
+}
+.navbar_text{
+  color: #F9696B;
+  font-size: 29px;
+  margin: 30px;
+  padding-right: 30px;
+  display: inline-block;
+  text-decoration: none;
+  position: absolute;
+  right: 20px;
+  top: 38px;
+}
+.navbar{
+  width: 100%;
+  text-align: center;
+  padding: 50px 6px;
+  text-decoration: none;
+  top: 0%;
+  /**position: fixed;**/
+  background-color: white
+}
+.special_hr{
+  border-width: 8px;
+  border-style: dotted;
+  border-height:0px;
+  color: grey; /** #F9696B **/
+  border-top: 0px;
+  width: 60px;
+
+}
+.who_section{
+  background-color: #FFFAEF ; /** #F8E4BD **/
+  padding-top: 25px;
+  height: 700px;
+}
+.who_{
+  height: 200px;
+  width: 200px;
+}
+.who_am_i_text{
+  margin: auto;
+  font-size: 19px;
+  width: 400px;
+}
+
+.about_section{
+
+  padding-top: 50px;
+  /**background-color: white ; /** #F8E4BD **/
+
+}
+
+.about_me_text{
+  margin:auto;
+  font-size: 18px;
+  width: 300px;
+}
+.about_emoji{
+  height: 200px;
+  width: 200px;
+}
+.middle_cell{
+  border-style: none;
+  height: 200px;
+  width: 20px;
+  border-left:  5px solid #F9696B;
+}
+table{
+  width: 100%;
+}
+.right_about_cell{
+  font-size: 15px;
+  margin-left: 300px;
+  text-align:left;
+}
+
+
+.help_section{
+  background-color: #FFF2F2 ; /** #F8E4BD **/
+  padding-top: 50px;
+  height: 700px;
+
+}
+.help_{
+  height: 300px;
+  width: 300px;
+}
+.help_am_i_text{
+  margin: auto;
+  font-size: 19px;
+  width: 300px;
+}
+
+
+.hire_section{
+  /**background-color: white ; /** #F8E4BD **/
+  justify-content: center;
+  padding-top: 50px;
+}
+.hire_{
+  height: 250px;
+  width: 250px;
+}
+.hire_am_i_text{
+  margin: auto;
+  font-size: 23px;
+  width: 400px;
+}
+
+.social_conections{
+
+  background-color: white;
+  width: 50%;
+  margin: auto;
+  margin-bottom: 50px;
+  padding-top: 100px;
+}
+.s_icons{
+  height: 60px;
+}
+
+.Footer{
+  height: 200px;
+  padding-top: 50px;
+  color: white;
+  font-size: 19px;
+  background-color: grey;
+
+}
