@@ -29,12 +29,7 @@ h1{
 
 }
 .hero_img{
-  height: 50%;
-  position: absolute;
-  top: 450px;
-  bottom: 0px;
-  right: 10px;
-  left: 200px;
+  margin-top: 50px;
 }
 .hero_bitmoji{
   height: 140px;
@@ -100,10 +95,7 @@ h1{
 }
 .who_section{
   background-color: #FFFAEF ; /** #F8E4BD **/
-  padding-top: 45px;
-  position: relative;
-  top: 500px;
-
+  padding-top: 25px;
   height: 700px;
 }
 .who_{
@@ -121,10 +113,6 @@ h1{
   padding-top: 50px;
   /**background-color: white ; /** #F8E4BD **/
 
-  position: relative;
-  top: 500px;
-  width: 100%;
-  height: 800px;
 }
 
 .about_me_text{
@@ -155,10 +143,8 @@ table{
 .help_section{
   background-color: #FFF2F2 ; /** #F8E4BD **/
   padding-top: 50px;
-  position: relative;
-  top: 500px;
-  width: 100%;
   height: 700px;
+
 }
 .help_{
   height: 300px;
@@ -175,10 +161,6 @@ table{
   /**background-color: white ; /** #F8E4BD **/
   justify-content: center;
   padding-top: 50px;
-  position: relative;
-  top: 500px;
-  width: 100%;
-  height: 700px;
 }
 .hire_{
   height: 250px;
@@ -195,7 +177,7 @@ table{
   background-color: white;
   width: 50%;
   margin: auto;
-  margin-bottom: 100px;
+  margin-bottom: 50px;
   padding-top: 100px;
 }
 .s_icons{
@@ -204,10 +186,9 @@ table{
 
 .Footer{
   height: 200px;
-  padding-top: 100px;
+  padding-top: 50px;
   color: white;
   font-size: 19px;
   background-color: grey;
-  position: relative;
-  top: 900px;
+  
 }
