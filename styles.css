@@ -86,7 +86,7 @@ h1{
   padding: 50px 6px;
   text-decoration: none;
   top: 0%;
-  position: fixed;
+  /**position: fixed;**/
   background-color: white
 }
 .special_hr{
